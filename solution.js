@@ -1,5 +1,5 @@
 //Start Date 21/01/2023
-//Morroco
+//Morocco
 
 //get Id Button 
 let submit = document.getElementById("sub");
